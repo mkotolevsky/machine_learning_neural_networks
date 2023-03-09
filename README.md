@@ -1,2 +1,3 @@
 # machine_learning_neural_networks
-Machine learning and deep neural networks
+Машинное обучение и глубокие нейронные сети.
+1 курс магистратуры, 1 семестр.
